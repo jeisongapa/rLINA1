@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LINA1 R",
-    "currentPage": "pactos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -51,7 +51,7 @@
     "screenshot": "screenshot.png",
     "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/diseo-sin-ttulo-128x128_1.png",
-    "mbrsiteDomain": "jgnfks6fd6",
+    "mbrsiteDomain": "dw2yhn2e0j",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -62,7 +62,7 @@
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NV9Z2FM\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n"
   },
   "pages": {
-    "index.html": {
+    "amarres.html": {
       "settings": {
         "main": true,
         "title": "Amarres de Amor",
@@ -591,7 +591,7 @@
         }
       ]
     },
-    "pactos.html": {
+    "index.html": {
       "settings": {
         "title": "Pactos con el Diablo",
         "meta_descr": "",
